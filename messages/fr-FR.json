@@ -10,5 +10,6 @@
   "restart-quiz": "Redémarrez Quiz !",
   "select-lang": "Sélectionnez la langue",
   "you-lose": "Tu perds !",
-  "your-score": "Votre score :"
+  "your-score": "Votre score :",
+  "you-win": "Tu as gagné !"
 }

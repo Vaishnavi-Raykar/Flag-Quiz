@@ -55,7 +55,10 @@ const Quiz: React.FC<QuizInterface> = ({
   return (
     <div className="w-full flex gap-24 max-sm:gap-6 max-sm:flex-col max-lg:gap-6 h-full justify-center items-center ">
       <div className="w-full max-w-2xl bg-gradient-to-br from-gray-800 to-gray-900 py-8 px-10 max-md:px-6 rounded-2xl shadow-xl z-10 mx-auto max-sm:mt-[320px] max-sm:px-4 max-sm:py-6  ">
-        <h2 className="text-3xl font-bold text-center text-white mb-6 bg-gradient-to-r from-blue-500 to-purple-600 p-4 rounded-lg shadow-md max-md:text-md max-md:p-3 max-sm:text-sm max-sm:p-2 max-sm:mb-3 ">
+        <h2
+  className="text-3xl font-bold text-center text-gray-200 mb-6 bg-gradient-to-r from-gray-800 to-gray-900 p-4 rounded-lg shadow-lg max-md:text-md max-md:p-3 max-sm:text-sm max-sm:p-2 max-sm:mb-3"
+>
+
           {t("guess")}
           <br />
           <img
@@ -89,7 +92,17 @@ const Quiz: React.FC<QuizInterface> = ({
       </div>
 
       <div className="">
-        <div className="pb-10 space-y-4 max-w-md mx-auto bg-gradient-to-br from-gray-800 to-gray-900 p-6 rounded-lg shadow-lg mb-10 max-sm:p-3 ">
+        <div className="pb-10 space-y-4 max-w-md mx-auto bg-gradient-to-br from-gray-800 to-gray-900 p-6 rounded-lg shadow-lg mb-10 max-sm:p-3 flex flex-col justify-center items-center">
+        <p className="text-lg h-full flex flex-col justify-center items-center  text-center text-gray-200 font-medium">
+            {t("your-score")}{" "}
+            <span
+              className={`text-3xl font-extrabold ${
+                score >= 7 ? "text-green-300" : "text-red-400"
+              }`}
+            >
+              {score}
+            </span>
+          </p>
           <p
             className={`text-2xl font-semibold text-green-400 text-center mb-2 transition-opacity duration-300 ${
               correctText ? "opacity-100" : "opacity-0"
@@ -115,16 +128,7 @@ const Quiz: React.FC<QuizInterface> = ({
             <span className="font-bold">{currentCountry.country}</span>
           </p>
 
-          <p className="text-lg text-center text-gray-200 font-medium">
-            {t("your-score")}{" "}
-            <span
-              className={`text-3xl font-extrabold ${
-                score >= 7 ? "text-green-300" : "text-red-400"
-              }`}
-            >
-              {score}
-            </span>
-          </p>
+          
         </div>
         <img
           src="/flag/countryFlag.png"

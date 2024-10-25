@@ -1,7 +1,7 @@
-# Country Capital Quiz using Tolgee
+# Country Flag Quiz using Tolgee
 [<img src="https://raw.githubusercontent.com/tolgee/documentation/main/tolgee_logo_text.svg" alt="Tolgee" width="100" />](https://tolgee.io)
 
-### [Live Website](https://country-capital-quiz.vercel.app/)
+### [Live Website](https://flag-quiz-phi.vercel.app/)
 ### [Dev.to Blog Link](https://dev.to/vaishnavi_raykar/country-capital-quiz-2cok)
 ##
 Here i used `tolgee` with `next.js` app router.

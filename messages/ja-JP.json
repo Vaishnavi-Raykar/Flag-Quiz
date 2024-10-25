@@ -10,5 +10,6 @@
   "restart-quiz": "クイズを再開！",
   "select-lang": "言語選択",
   "you-lose": "負けました！",
-  "your-score": "あなたのスコア:"
+  "your-score": "あなたのスコア:",
+  "you-win": "あなたの勝ち！"
 }
