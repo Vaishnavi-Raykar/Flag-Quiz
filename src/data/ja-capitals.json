@@ -1,0 +1,214 @@
+[
+  {
+    "country": "アフガニスタン",
+    "flag": "/img/afghanistan.png"
+  },
+  {
+    "country": "オーストラリア",
+    "flag": "/img/australia.png"
+  },
+  {
+    "country": "バングラデシュ",
+    "flag": "/img/bangladesh.png"
+  },
+  {
+    "country": "ブータン",
+    "flag": "/img/bhutan.png"
+  },
+  {
+    "country": "ブラジル",
+    "flag": "/img/brazil.png"
+  },
+  {
+    "country": "カナダ",
+    "flag": "/img/canada.png"
+  },
+  {
+    "country": "中国",
+    "flag": "/img/china.png"
+  },
+  {
+    "country": "コロンビア",
+    "flag": "/img/colombia.png"
+  },
+  {
+    "country": "デンマーク",
+    "flag": "/img/denmark.png"
+  },
+  {
+    "country": "エジプト",
+    "flag": "/img/egypt.png"
+  },
+  {
+    "country": "イングランド",
+    "flag": "/img/england.png"
+  },
+  {
+    "country": "エチオピア",
+    "flag": "/img/ethiopia.png"
+  },
+  {
+    "country": "フランス",
+    "flag": "/img/france.png"
+  },
+  {
+    "country": "ドイツ",
+    "flag": "/img/germany.png"
+  },
+  {
+    "country": "香港",
+    "flag": "/img/hong-kong.png"
+  },
+  {
+    "country": "アイスランド",
+    "flag": "/img/iceland.png"
+  },
+  {
+    "country": "インド",
+    "flag": "/img/india.png"
+  },
+  {
+    "country": "インドネシア",
+    "flag": "/img/indonesia.png"
+  },
+  {
+    "country": "イラン",
+    "flag": "/img/iran.png"
+  },
+  {
+    "country": "イラク",
+    "flag": "/img/iraq.png"
+  },
+  {
+    "country": "イスラエル",
+    "flag": "/img/israel.png"
+  },
+  {
+    "country": "イタリア",
+    "flag": "/img/italy.png"
+  },
+  {
+    "country": "日本",
+    "flag": "/img/japan.png"
+  },
+  {
+    "country": "ケニア",
+    "flag": "/img/kenya.png"
+  },
+  {
+    "country": "韓国",
+    "flag": "/img/korea.png"
+  },
+  {
+    "country": "マレーシア",
+    "flag": "/img/malaysia.png"
+  },
+  {
+    "country": "メキシコ",
+    "flag": "/img/mexico.png"
+  },
+  {
+    "country": "ミャンマー",
+    "flag": "/img/myanmar.png"
+  },
+  {
+    "country": "ネパール",
+    "flag": "/img/nepal.png"
+  },
+  {
+    "country": "オランダ",
+    "flag": "/img/netherland.png"
+  },
+  {
+    "country": "ナイジェリア",
+    "flag": "/img/nigeria.png"
+  },
+  {
+    "country": "ノルウェー",
+    "flag": "/img/norway.png"
+  },
+  {
+    "country": "パキスタン",
+    "flag": "/img/pakistan.png"
+  },
+  {
+    "country": "ペルー",
+    "flag": "/img/peru.png"
+  },
+  {
+    "country": "フィリピン",
+    "flag": "/img/philippines.png"
+  },
+  {
+    "country": "ポーランド",
+    "flag": "/img/poland.png"
+  },
+  {
+    "country": "ロシア",
+    "flag": "/img/russia.png"
+  },
+  {
+    "country": "サウジアラビア",
+    "flag": "/img/saudi-arabia.png"
+  },
+  {
+    "country": "シンガポール",
+    "flag": "/img/singapore.png"
+  },
+  {
+    "country": "南アフリカ",
+    "flag": "/img/south-africa.png"
+  },
+  {
+    "country": "スペイン",
+    "flag": "/img/spain.png"
+  },
+  {
+    "country": "スリランカ",
+    "flag": "/img/sri-lanka.png"
+  },
+  {
+    "country": "スウェーデン",
+    "flag": "/img/sweden.png"
+  },
+  {
+    "country": "スイス",
+    "flag": "/img/switzerland.png"
+  },
+  {
+    "country": "タンザニア",
+    "flag": "/img/tanzania.png"
+  },
+  {
+    "country": "タイ",
+    "flag": "/img/thailand.png"
+  },
+  {
+    "country": "トルコ",
+    "flag": "/img/turkey.png"
+  },
+  {
+    "country": "ウクライナ",
+    "flag": "/img/ukraine.png"
+  },
+  {
+    "country": "イギリス",
+    "flag": "/img/united-kingdom.png"
+  },
+  {
+    "country": "アメリカ合衆国",
+    "flag": "/img/united-states.png"
+  },
+  {
+    "country": "ベトナム",
+    "flag": "/img/vietnam.png"
+  },
+  {
+    "country": "ザンビア",
+    "flag": "/img/zambia.png"
+  },
+  {
+    "country": "ジンバブエ",
+    "flag": "/img/zimbabwe.png"
+  }
+]
