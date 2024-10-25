@@ -2,7 +2,7 @@
 [<img src="https://raw.githubusercontent.com/tolgee/documentation/main/tolgee_logo_text.svg" alt="Tolgee" width="100" />](https://tolgee.io)
 
 ### [Live Website](https://flag-quiz-phi.vercel.app/)
-### [Dev.to Blog Link](https://dev.to/vaishnavi_raykar/country-capital-quiz-2cok)
+### [Dev.to Blog Link](https://dev.to/vaishnavi_raykar/flag-quiz-4bc3)
 ##
 Here i used `tolgee` with `next.js` app router.
 based on `next14` app folder with `tolgee` and `next-intl` package.
